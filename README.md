@@ -1,4 +1,4 @@
-# Analyseur de Corpus XML pour TALN
+# TALN.py Analyseur de Corpus XML pour TALN
 
 Ce programme est utilisé pour analyser des fichiers XML et en extraire des données.
 
@@ -51,7 +51,7 @@ corpus.find_by_year(1998, 'text')
 
 
 
-# Analyseur de Texte et Clustering avec NLTK et K-means
+# Kmeans.py Analyseur de Texte et Clustering avec NLTK et K-means
 
 Ce programme est conçu pour traiter des documents textuels et appliquer une technique de clustering pour les regrouper en catégories.
 
